@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html ng-app="LoginRegistrationModule">
+    <head>
+        <title>Home</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <link href='https://fonts.googleapis.com/css?family=Oxygen:400,300,700' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Lora' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" type="text/css" media="all" href ="css/bootstrap.min.css"/>
+        <link rel="stylesheet" type="text/css" media="all" href ="css/common.css"/>
+        <link rel="stylesheet" type="text/css" media="all" href ="css/styles.css"/>
+        <script type="text/javascript" src="../js/lib/jquery-2.1.4.min.js" ></script>
+        <script type="text/javascript" src="../js/lib/angular.min.js"></script>
+        <script type="text/javascript" src="../js/lib/angular-ui-router.min.js"></script>
+        <script type="text/javascript" src="../js/lib/bootstrap.min.js"></script>
+    </head>
+    <body>
+        <div id="head"></div>
+
+        <ui-view></ui-view>
+
+        <div id="footer"></div>
+
+      <!-- -->
+      <!-- Login Registration Module -->
+      <script src="../js/logreg/logreg.module.js"></script>
+
+      <script src="../js/routes.js"></script>
+
+      <!-- Login Controller -->
+      <script src="../js/logreg/login.controller.js"></script>
+
+      <!-- Register Controller -->
+      <script src="../js/logreg/register.controller.js"></script>
+
+      <!-- Login Registration Service-->
+      <script src="../js/logreg/logreg.service.js"></script>
+
+    </body>
+</html>

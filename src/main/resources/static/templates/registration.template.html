@@ -1,0 +1,58 @@
+<div class="container">
+<fieldset class="reg-form">
+<legend>Register yourself:</legend>
+    <form name='regForm' novalidate>
+      <div class="form-group">
+        <label class="email"> Your email: </label>
+        <input type="email" name="username" class="text-in" placeholder="you@fantastic.com"
+         required
+         ng-model="regCtrl.user.userName"/>
+         <span class="error"
+           ng-show="regForm.username.$error.required && regForm.username.$touched">
+           email is required
+         </span>
+         <span  class="error" ng-show="!regForm.username.$error.required &&
+                  regForm.username.$invalid && regForm.username.$touched">
+           Must be a valid email address: handle@domain format
+         </span>
+      </div>
+      <div class="form-group">
+        <label class="fname"> Your Full Name: </label>
+        <input type="text" class="text-in" name="fullname"
+        pattern="(\W+\s*)"
+         ng-model="regCtrl.user.fullName" />
+         <span class="error" ng-show="regForm.fullname.$invalid && regForm.fullname.$touched">
+           Fullname must only contain words and spaces
+         </span>
+      </div>
+      <div class="form-group">
+        <label class="pwd"> Password: </label>
+        <input type="password" class="text-in"
+        name="password"
+        required
+        min="6"
+        ng-model="regCtrl.user.password" />
+        <span class="error" ng-show="regForm.password.$invalid && regForm.password.$touched">
+          Password must be entered
+        </span>
+      </div>
+      <div class="form-group">
+        <label class="rpwd"> Re-Type Password: </label>
+        <input type="password" class="text-in"
+        name="repassword"
+        required
+        min="6"
+        ng-model="regCtrl.user.matchingPassword" />
+        <span class="error" ng-show="regForm.repassword.$invalid && regForm.repassword.$touched">
+          You must confirm your password
+        </span>
+      </div>
+      <div class="form-group">
+        <button class="btn btn-default" ng-disabled="regForm.$invalid"
+        ng-click="regCtrl.submit()">Register
+        </button>
+        <a ui-sref="home.login" class="url">Cancel</a>
+      </div>
+    </form>
+  </fieldset>
+</div>
