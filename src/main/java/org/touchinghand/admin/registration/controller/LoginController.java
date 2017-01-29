@@ -12,12 +12,6 @@ public class LoginController {
 
   @RequestMapping(value={"/"}, method = RequestMethod.GET)
   public String showLogin(Model model){
-	  System.out.println("********************");
-	  System.out.println("********************");
-	  System.out.println("********************");
-	  System.out.println("********************");
-	  System.out.println("********************");
-	  System.out.println("********************");
     model.addAttribute("user", new UserDTO());
     return "/login";
   }

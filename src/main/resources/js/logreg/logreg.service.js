@@ -18,6 +18,7 @@ function LoginRegistrationService($http, ApiBasePath) {
   };
 
   service.register = function(user) {
+    console.log("Inside register of logreg.service.js");
       var response = $http({
         method: "POST",
         url: (ApiBasePath + "/register")

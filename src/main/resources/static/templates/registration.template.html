@@ -19,7 +19,7 @@
       <div class="form-group">
         <label class="fname"> Your Full Name: </label>
         <input type="text" class="text-in" name="fullname"
-        pattern="(\W+\s*)"
+         pattern="[\w\s]+"
          ng-model="regCtrl.user.fullName" />
          <span class="error" ng-show="regForm.fullname.$invalid && regForm.fullname.$touched">
            Fullname must only contain words and spaces

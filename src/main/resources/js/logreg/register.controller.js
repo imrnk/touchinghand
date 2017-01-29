@@ -10,17 +10,22 @@ function RegistrationController(LoginRegistrationService, ApiBasePath) {
   var registrationCtrl = this;
   registrationCtrl.user = {};
 
-  LoginRegistrationService.register(registrationCtrl.user).then(handleSuccess, handleError('Error creating user'));
-}
+  registrationCtrl.regex = '[\w\s]+';
 
-function handleSuccess(response) {
-  return response.data;
-}
+  registrationCtrl.submit = function(){
+    console.log("Inside RegistrationController submit");
+    LoginRegistrationService.register(registrationCtrl.user).then(handleSuccess, handleError('Error creating user'));
 
-function handleError(error) {
-  return function () {
-    return { success: false, message: error };
-  };
+    function handleSuccess(response) {
+      return response.data;
+    }
+
+    function handleError(error) {
+      return function () {
+        return { success: false, message: error };
+      };
+    }
+  }
 }
 
 })();

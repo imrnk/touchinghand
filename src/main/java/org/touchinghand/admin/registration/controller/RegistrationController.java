@@ -40,6 +40,8 @@ public class RegistrationController {
       WebRequest request, Errors error, Model model) {
       
     //TODO: Handle Error Condition
+	logger.debug("*************** in register() of " + logger.getClass());
+	logger.debug("User DTO:   " + user.getUserName() + " " + user.getPassword());
     Admin registered = null;
 	try {
 		registered = registrationService.register(user);

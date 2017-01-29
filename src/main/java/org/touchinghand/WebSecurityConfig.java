@@ -30,10 +30,10 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter{
 	@Autowired
 	AdminRepository logRegRepo;
 
-	//@Override
+	@Override
 	protected void configure(HttpSecurity http) throws Exception {
 		http.authorizeRequests()
-				.antMatchers("/", "/login", "/register", "/**/*.css", 
+				.antMatchers("/", "/#/", "/#register/", "/login", "/register", "/**/*.css", 
 						"/**/*.js", "/**/**/*.css", "/**/**/*.js",
 						"/**/**/**/*.css", "/**/**/**/*.js", 
 						"/**/**/**/**/*.css", "/**/**/**/**/*.js", "/**/home.html", "**/login.html",
@@ -41,7 +41,7 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter{
 				.permitAll().
 				regexMatchers("/registration*")
 				.permitAll()
-				.anyRequest().authenticated()
+				//.anyRequest().authenticated()
 				.and()
 				.formLogin().loginPage("/login").permitAll()
 				.and()
