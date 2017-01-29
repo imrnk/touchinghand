@@ -14,18 +14,15 @@ function RegistrationController(LoginRegistrationService, ApiBasePath) {
 
   registrationCtrl.submit = function(){
     console.log("Inside RegistrationController submit");
-    LoginRegistrationService.register(registrationCtrl.user).then(handleSuccess, handleError('Error creating user'));
+      LoginRegistrationService.register(registrationCtrl.user, function (data, status, headers, config) {
+			// Success handler
+			console.info('The user has been successfully registered! ', data, status, headers, config);
+		}, function(data, status, headers, config) {
+			// Failure handler
+			console.error('Something went wrong while trying to register... ', data, status, headers, config);
+		});
+  };
 
-    function handleSuccess(response) {
-      return response.data;
-    }
-
-    function handleError(error) {
-      return function () {
-        return { success: false, message: error };
-      };
-    }
-  }
 }
 
 })();

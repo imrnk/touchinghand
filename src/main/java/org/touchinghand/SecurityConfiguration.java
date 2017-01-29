@@ -7,6 +7,7 @@ import org.springframework.security.web.authentication.logout.LogoutSuccessHandl
 import org.touchinghand.configuration.RESTAuthenticationEntryPoint;
 import org.touchinghand.configuration.RESTAuthenticationSuccessHandler;
 import org.touchinghand.configuration.RESTLogoutSuccessHandler;
+import org.touchinghand.configuration.cors.CORSFilter;
 
 
 @Configuration
@@ -27,10 +28,10 @@ public class SecurityConfiguration {
 		return new RESTAuthenticationSuccessHandler();
 	}
 
-	/*@Bean
+	@Bean
 	public CORSFilter corsFilter() {
 		return new CORSFilter();
-	}*/
+	}
 
 	@Bean
 	public LogoutSuccessHandler logoutSuccessHandler() {
