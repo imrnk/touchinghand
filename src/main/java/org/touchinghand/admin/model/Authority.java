@@ -10,6 +10,8 @@ public class Authority implements GrantedAuthority {
 	private static final long serialVersionUID = -457047677153969156L;
 	private String userName;
 	private String role;
+	
+	public static final String ADMIN_AUTHORITY = "ROLE_ADMIN";
 
 	public Authority(String userName, String role) {
 		this.userName = userName;

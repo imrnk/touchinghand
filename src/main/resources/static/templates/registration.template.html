@@ -3,6 +3,7 @@
 <legend>Register yourself:</legend>
     <form name='regForm' novalidate>
       <div class="form-group">
+        <div class="error regmessage">{{regCtrl.error}}</div>
         <label class="email"> Your email: </label>
         <input type="email" name="username" class="text-in" placeholder="you@fantastic.com"
          required

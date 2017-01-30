@@ -92,11 +92,11 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter{
 						new NegatedRequestMatcher(new AntPathRequestMatcher("/logout*/**", HttpMethod.OPTIONS.toString())),
 						
 						//Disable CSRF at register for all methods
-						new NegatedRequestMatcher(new AntPathRequestMatcher("/register*/**", HttpMethod.OPTIONS.toString())),
-						new NegatedRequestMatcher(new AntPathRequestMatcher("/register*/**", HttpMethod.GET.toString())),
-						new NegatedRequestMatcher(new AntPathRequestMatcher("/register*/**", HttpMethod.POST.toString())),
-						new NegatedRequestMatcher(new AntPathRequestMatcher("/register*/**", HttpMethod.HEAD.toString())),
-						new NegatedRequestMatcher(new AntPathRequestMatcher("/register*/**", HttpMethod.TRACE.toString()))
+						new NegatedRequestMatcher(new AntPathRequestMatcher("/register*/**", HttpMethod.OPTIONS.toString()))
+						//new NegatedRequestMatcher(new AntPathRequestMatcher("/register*/**", HttpMethod.GET.toString())),
+						//new NegatedRequestMatcher(new AntPathRequestMatcher("/register*/**", HttpMethod.POST.toString())),
+						//new NegatedRequestMatcher(new AntPathRequestMatcher("/register*/**", HttpMethod.HEAD.toString())),
+						//new NegatedRequestMatcher(new AntPathRequestMatcher("/register*/**", HttpMethod.TRACE.toString()))
 						//TODO: DO we need to disable CSRF at dashboard??
 						
 					//	new NegatedRequestMatcher(new AntPathRequestMatcher("/dashboard*/**", HttpMethod.GET.toString())),
