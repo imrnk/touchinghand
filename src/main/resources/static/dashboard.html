@@ -1,14 +1,51 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org"
-      xmlns:sec="http://www.thymeleaf.org/thymeleaf-extras-springsecurity3">
+<html ng-app="DashboardModule">
     <head>
-        <title>Dashboard</title>
-        <link rel="stylesheet" type="text/css" media="all" href ="../static/css/styles.css" th:href = "@{resources/static/css/styles.css}"/>
+      <title>Touching Hand - Dashboard - All your work is here</title>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <link href='https://fonts.googleapis.com/css?family=Oxygen:400,300,700' rel='stylesheet' type='text/css'>
+      <link href='https://fonts.googleapis.com/css?family=Lora' rel='stylesheet' type='text/css'>
+      <link rel="stylesheet" type="text/css" media="all" href ="css/bootstrap.min.css"/>
+      <link rel="stylesheet" type="text/css" media="all" href ="css/common.css"/>
+      <link rel="stylesheet" type="text/css" media="all" href ="css/styles.css"/>
+      <script type="text/javascript" src="../js/lib/jquery-2.1.4.min.js" ></script>
+      <script type="text/javascript" src="../js/lib/angular.min.js"></script>
+      <script type="text/javascript" src="../js/lib/angular-cookies.min.js"></script>
+      <script type="text/javascript" src="../js/lib/angular-resource.min.js"></script>
+      <script type="text/javascript" src="../js/lib/angular-ui-router.min.js"></script>
+      <script type="text/javascript" src="../js/lib/bootstrap.min.js"></script>
     </head>
     <body>
-        <h1 th:inline="text">Hello [[${#httpServletRequest.remoteUser}]]!</h1>
-        <form th:action="@{/logout}" method="post">
-            <input type="submit" value="Sign Out"/>
-        </form>
+      <div id="head"></div>
+
+      <ui-view></ui-view>
+
+      <div id="footer"></div>
+
+      <!-- -->
+      <!-- Login Registration Module -->
+      <script src="../js/dashboard/dashboard.module.js"></script>
+
+      <!-- Cookies Service-->
+      <script src="../js/cookies-service.js"></script>
+
+      <!-- CSRF Service-->
+      <script src="../js/csrf-service.js"></script>
+
+      <script src="../js//dashboard/dashboard.routes.js"></script>
+
+      <!-- Dashboard Controller -->
+      <script src="../js/dashboard/dashboard.controller.js"></script>
+
+      <!-- Dashboard components-->
+      <script src="../js/dashboard/dashboard.component.addclient.js"></script>
+      <script src="../js/dashboard/dashboard.component.clients.js"></script>
+      <script src="../js/dashboard/dashboard.component.history.js"></script>
+
+      <!-- Dashboard Service-->
+      <script src="../js/dashboard/dashboard.service.js"></script>
+
+
+
     </body>
 </html>

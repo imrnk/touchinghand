@@ -95,7 +95,7 @@ public class AdminRepository {
 
 			if (admin == null) {
 				admin = new Admin(userName, rs.getString("PASSWORD".toLowerCase()),
-						rs.getString("FULLNAME".toLowerCase()), authorities);
+						rs.getString("FULL_NAME".toLowerCase()), authorities);
 				
 				admin.setId(id);
 			} else {
@@ -103,5 +103,16 @@ public class AdminRepository {
 			}
 		}
 		return admin;
+	}
+
+	/**
+	 * 
+	 * @param userName
+	 * @param password
+	 * @return
+	 */
+	public Admin findByUserNameAndPassword(String userName, String password) {
+		// TODO Auto-generated method stub
+		return null;
 	}
 }

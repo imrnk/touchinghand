@@ -42,18 +42,25 @@ label{
 }
 
 .submit-btn {
-  background-color: #3E852C;
+  background-color: #68698B;
   width: 180px;
   display: inline-block;
   text-align: center;
   text-decoration: none;
 }
 
+.btncolor {
+  background-color: rgb(157, 189, 214) !important;
+  font-weight: bold !important;
+}
 
 span {
   float:right;
   //overflow: hidden;
 }
+ span .greenmsg {
+   color: green;
+ }
 
 .error {
     color: rgb(222, 17, 17);
@@ -78,6 +85,10 @@ button {
 
 #info {
   margin-top: 20px;
+}
+
+.regsuccess {
+  margin: 200px 0px 0px 350px;
 }
 
 .regmessage {

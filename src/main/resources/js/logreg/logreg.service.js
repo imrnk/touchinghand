@@ -47,7 +47,7 @@ function LoginRegistrationService($http, ApiBasePath, $resource, Cookies) {
       headers[$http.defaults.xsrfHeaderName] = csrfToken;
 
       // Post the credentials for logging in
-      $http.post('http://localhost:8080/login', user, {headers: headers})
+      $http.post(ApiBasePath + '/login', user, {headers: headers})
         .success(successHandler)
         .error(function (data, status, headers, config) {
 
@@ -82,13 +82,13 @@ function LoginRegistrationService($http, ApiBasePath, $resource, Cookies) {
       headers[$http.defaults.xsrfHeaderName] = csrfToken;
 
       // Post the credentials for logging in
-      $http.post('http://localhost:8080/register', user, {headers: headers})
+      $http.post(ApiBasePath + '/register', user, {headers: headers})
         .success(successHandler)
         .error(function (data, status, headers, config) {
 
           if (isCSRFTokenInvalidOrMissing(data, status)) {
             console.error('The obtained CSRF token was either missing or invalid. Have you turned on your cookies?');
-
+            errorHandler(data, status, headers, config);
           } else {
             // Nope, the error is due to something else. Run the error handler...
             errorHandler(data, status, headers, config);

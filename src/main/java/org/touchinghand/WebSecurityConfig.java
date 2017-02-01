@@ -38,10 +38,11 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter{
 
 	@Autowired
 	private UserDetailsService userDetailsService;
+	
 	@Autowired
 	DataSource dataSource;
 	@Autowired
-	AdminRepository logRegRepo;
+	AdminRepository adminRepo;
 	@Resource
 	private AuthenticationEntryPoint authenticationEntryPoint;
 	@Resource
@@ -127,7 +128,8 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter{
 
 	@Autowired
 	public void configure(AuthenticationManagerBuilder auth) throws Exception {
-		auth.userDetailsService(new LoginService(logRegRepo));
+		auth.userDetailsService(new LoginService(adminRepo));
+		auth.authenticationProvider(authProvider());
 	}
 
 	@Bean

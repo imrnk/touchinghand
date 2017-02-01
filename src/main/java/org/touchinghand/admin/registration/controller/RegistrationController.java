@@ -30,13 +30,6 @@ public class RegistrationController {
 		this.registrationService = service;
 	}
 
-/*	@RequestMapping(value = "/register", method = RequestMethod.GET)
-	public String showRegistrationPage(Model model) {
-		model.addAttribute("newuser", new UserDTO());
-		logger.debug("Coming to showRegistrationPage ****************************");
-		return "register";
-	}*/
-
 	@RequestMapping(value = "/register", method = RequestMethod.POST, consumes=MediaType.APPLICATION_JSON_VALUE)
 	public ResponseEntity<Admin> register(@RequestBody UserDTO user, BindingResult result, WebRequest request,
 			Errors error) {
