@@ -1,5 +1,7 @@
 package org.touchinghand.admin.registration.service;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
@@ -10,30 +12,30 @@ import org.touchinghand.dao.AdminRepository;
 @Service("userDetailsService")
 public class LoginService implements UserDetailsService {
 
-  private AdminRepository adminRepository;
-  
-  @Autowired
-  public LoginService(AdminRepository adminRepo){
-    this.adminRepository = adminRepo;
-  }
+	public Logger logger = LoggerFactory.getLogger(this.getClass());
+	
+	private AdminRepository adminRepository;
 
-  @Override
-  public UserDetails loadUserByUsername(String userName) throws UsernameNotFoundException {
+	@Autowired
+	public LoginService(AdminRepository adminRepo) {
+		this.adminRepository = adminRepo;
+	}
 
-    return adminRepository.findByUserName(userName);
-  }  
+	@Override
+	public UserDetails loadUserByUsername(String userName) throws UsernameNotFoundException {
 
-  
-/*  public Admin login(String userName, String password){
-    Admin fetchedUser = adminRepository.findByUserNameAndPassword(userName, password);
-    if(validateUser(fetchedUser, password))
-      return fetchedUser;
-    return null;
-  }
-  
-  private boolean validateUser(Admin fetchedUser, String password){
-    return EncryptPassword.matchEncryptedWithPassedPassword(fetchedUser.getPassword(), password, fetchedUser.getSalt());
-  }*/
-  
-  
+		return adminRepository.findByUserName(userName);
+	}
+
+	/*
+	 * public Admin login(String userName, String password){ Admin fetchedUser =
+	 * adminRepository.findByUserNameAndPassword(userName, password);
+	 * if(validateUser(fetchedUser, password)) return fetchedUser; return null;
+	 * }
+	 * 
+	 * private boolean validateUser(Admin fetchedUser, String password){ return
+	 * EncryptPassword.matchEncryptedWithPassedPassword(fetchedUser.getPassword(
+	 * ), password, fetchedUser.getSalt()); }
+	 */
+
 }

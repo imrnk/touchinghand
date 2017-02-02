@@ -42,7 +42,7 @@ function LoginRegistrationService($http, ApiBasePath, $resource, Cookies) {
 
       // Prepare the headers
       var headers = {
-        'Content-Type': 'application/x-www-form-urlencoded'
+        'Content-Type': 'application/json'
       };
       headers[$http.defaults.xsrfHeaderName] = csrfToken;
 

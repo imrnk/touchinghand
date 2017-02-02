@@ -1,6 +1,8 @@
 package org.touchinghand.admin.registration.controller;
 
-import org.apache.log4j.Logger;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
@@ -21,7 +23,8 @@ import org.touchinghand.exception.UserExistException;
 @RequestMapping("/")
 public class RegistrationController {
 
-	public Logger logger = Logger.getLogger(RegistrationController.class);
+	public Logger logger = LoggerFactory.getLogger(this.getClass());
+	
 
 	private IRegistrationService registrationService;
 

@@ -7,6 +7,8 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.security.core.GrantedAuthority;
@@ -19,6 +21,8 @@ import org.touchinghand.exception.UserExistException;
 @Repository
 public class AdminRepository {
 
+	public Logger logger = LoggerFactory.getLogger(this.getClass());
+	
 	private final static String INSERT_USER = "INSERT INTO ADMIN (USERNAME, PASSWORD, FULL_NAME) VALUES (?, ?, ?)";
 	private final static String INSERT_AUTHORITY = "INSERT INTO AUTHORITIES (USERNAME, AUTHORITY) VALUES(?, ?)";
 	private final static String FIND_USER_BY_USERNAME = "SELECT AD.ADMIN_ID, AD.USERNAME, AD.PASSWORD, AD.FULL_NAME, AUTH.AUTHORITY"
@@ -57,7 +61,7 @@ public class AdminRepository {
 	 * @return
 	 */
 	public boolean doesUserExist(final String userName) {
-		System.out.println("userName in doesUserExist?  " + userName);
+		logger.info("userName in doesUserExist?  " + userName);
 		return jdbc.query(DOES_USER_EXIST_BY_USERNAME.toLowerCase(), ps -> ps.setString(1, userName),
 				rs -> rs.next() ? true : false);
 	}
@@ -69,7 +73,13 @@ public class AdminRepository {
 	 * @return
 	 */
 	public Admin findByUserName(final String userName) {
-
+		logger.info("*****************************************");
+		logger.info("*****************************************");
+		logger.info("*****************************************");
+		logger.info("User Name > " + userName);
+		logger.info("*****************************************");
+		logger.info("*****************************************");
+		logger.info("*****************************************");
 		return jdbc.query(FIND_USER_BY_USERNAME.toLowerCase(), ps -> ps.setString(1, userName), this::extract);
 	}
 
