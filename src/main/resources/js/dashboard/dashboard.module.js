@@ -1,7 +1,7 @@
 (function () {
 'use strict';
 
-angular.module('DashboardModule', ['ui.router', 'ngCookies','ngResource'])
+angular.module('DashboardModule', ['ui.router', 'ngCookies','ngResource', 'common'])
 .config(['$httpProvider', function ($httpProvider) {
 
 	$httpProvider.defaults.withCredentials = true;

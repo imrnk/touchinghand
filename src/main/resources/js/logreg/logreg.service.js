@@ -8,7 +8,7 @@ angular.module('LoginRegistrationModule')
 LoginRegistrationService.$inject = ['$http', 'ApiBasePath', '$resource', 'Cookies'];
 function LoginRegistrationService($http, ApiBasePath, $resource, Cookies) {
 
-  var loginResources = $resource(ApiBasePath + '/login', {}, {
+  var loginResources = $resource(ApiBasePath + '/authenticate', {}, {
     options: {method: 'OPTIONS', cache: false}
   });
 
@@ -42,11 +42,13 @@ function LoginRegistrationService($http, ApiBasePath, $resource, Cookies) {
 
       // Prepare the headers
       var headers = {
+        'Accept': 'application/json',
         'Content-Type': 'application/json'
       };
       headers[$http.defaults.xsrfHeaderName] = csrfToken;
-
+      console.log("Before calling /login, user : ", user);
       // Post the credentials for logging in
+      //var credentials = "username="+user.username+"&password="+user.password;
       $http.post(ApiBasePath + '/login', user, {headers: headers})
         .success(successHandler)
         .error(function (data, status, headers, config) {

@@ -7,6 +7,11 @@ public class UserDTO {
   private String matchingPassword;
   private String fullName;
   
+  
+  public UserDTO(){
+	  
+  }
+  
   public String getUserName() {
     return userName;
   }

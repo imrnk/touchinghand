@@ -1,0 +1,649 @@
+[INFO ] 2017-02-04 15:40:38.762 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 4643 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-04 15:40:38.764 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-04 15:40:45.457 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 7.345 seconds (JVM running for 8.117)
+[INFO ] 2017-02-04 15:42:18.370 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 4643 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-04 15:42:18.370 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-04 15:42:20.657 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 2.367 seconds (JVM running for 103.317)
+[INFO ] 2017-02-04 15:43:09.410 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 4643 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-04 15:43:09.410 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-04 15:43:11.087 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 1.738 seconds (JVM running for 153.747)
+[INFO ] 2017-02-04 15:43:38.322 [http-nio-8080-exec-10] LoginService - In LoginService::: userName> 
+[INFO ] 2017-02-04 15:43:38.340 [http-nio-8080-exec-10] AdminRepository - *****************************************
+[INFO ] 2017-02-04 15:43:38.340 [http-nio-8080-exec-10] AdminRepository - *****************************************
+[INFO ] 2017-02-04 15:43:38.340 [http-nio-8080-exec-10] AdminRepository - *****************************************
+[INFO ] 2017-02-04 15:43:38.341 [http-nio-8080-exec-10] AdminRepository - User Name > 
+[INFO ] 2017-02-04 15:43:38.341 [http-nio-8080-exec-10] AdminRepository - *****************************************
+[INFO ] 2017-02-04 15:43:38.341 [http-nio-8080-exec-10] AdminRepository - *****************************************
+[INFO ] 2017-02-04 15:43:38.341 [http-nio-8080-exec-10] AdminRepository - *****************************************
+[INFO ] 2017-02-04 15:45:51.237 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 4643 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-04 15:45:51.237 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-04 15:45:53.016 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 1.84 seconds (JVM running for 315.675)
+[INFO ] 2017-02-04 16:00:44.292 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 4643 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-04 16:00:44.292 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-04 16:00:45.908 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 1.688 seconds (JVM running for 1208.568)
+[INFO ] 2017-02-04 16:00:50.462 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 4643 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-04 16:00:50.462 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-04 16:00:52.285 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 1.901 seconds (JVM running for 1214.945)
+[INFO ] 2017-02-04 16:04:18.475 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 4643 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-04 16:04:18.475 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-04 16:04:19.989 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 1.561 seconds (JVM running for 1422.648)
+[INFO ] 2017-02-04 16:05:20.739 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 4643 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-04 16:05:20.740 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-04 16:05:22.073 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 1.377 seconds (JVM running for 1484.733)
+[INFO ] 2017-02-04 16:14:55.442 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 4643 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-04 16:14:55.442 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-04 16:14:56.703 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 1.315 seconds (JVM running for 2059.363)
+[INFO ] 2017-02-04 16:17:53.896 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 4643 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-04 16:17:53.896 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-04 16:17:55.281 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 1.423 seconds (JVM running for 2237.941)
+[INFO ] 2017-02-04 16:19:10.100 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 4643 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-04 16:19:10.100 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-04 16:19:11.282 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 1.218 seconds (JVM running for 2313.942)
+[INFO ] 2017-02-04 16:20:13.043 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 4643 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-04 16:20:13.043 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-04 16:20:14.067 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 1.066 seconds (JVM running for 2376.727)
+[INFO ] 2017-02-04 16:22:43.114 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 4643 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-04 16:22:43.114 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-04 16:22:44.338 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 1.268 seconds (JVM running for 2526.997)
+[INFO ] 2017-02-04 16:24:03.693 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 4643 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-04 16:24:03.693 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-04 16:24:04.980 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 1.419 seconds (JVM running for 2607.639)
+[INFO ] 2017-02-04 16:30:39.754 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 4643 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-04 16:30:39.754 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-04 16:30:40.851 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 1.132 seconds (JVM running for 3003.511)
+[INFO ] 2017-02-04 16:36:11.006 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 6573 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-04 16:36:11.034 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-04 16:36:20.060 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 11.329 seconds (JVM running for 13.274)
+[INFO ] 2017-02-04 16:45:36.364 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 7031 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-04 16:45:36.367 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-04 16:45:42.907 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 7.429 seconds (JVM running for 8.626)
+[INFO ] 2017-02-04 16:55:11.152 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 7031 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-04 16:55:11.152 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-04 17:01:46.745 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 7031 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-04 17:01:46.745 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-04 17:01:48.621 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 1.916 seconds (JVM running for 974.34)
+[INFO ] 2017-02-04 17:07:39.985 [http-nio-8080-exec-8] AdminRepository - userName in doesUserExist?  test@user.com
+[INFO ] 2017-02-04 17:07:41.255 [http-nio-8080-exec-8] AdminRepository - *****************************************
+[INFO ] 2017-02-04 17:07:41.255 [http-nio-8080-exec-8] AdminRepository - *****************************************
+[INFO ] 2017-02-04 17:07:41.255 [http-nio-8080-exec-8] AdminRepository - *****************************************
+[INFO ] 2017-02-04 17:07:41.255 [http-nio-8080-exec-8] AdminRepository - User Name > test@user.com
+[INFO ] 2017-02-04 17:07:41.255 [http-nio-8080-exec-8] AdminRepository - *****************************************
+[INFO ] 2017-02-04 17:07:41.255 [http-nio-8080-exec-8] AdminRepository - *****************************************
+[INFO ] 2017-02-04 17:07:41.255 [http-nio-8080-exec-8] AdminRepository - *****************************************
+[INFO ] 2017-02-04 17:09:03.988 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 7031 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-04 17:09:03.988 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-04 17:09:05.801 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 1.876 seconds (JVM running for 1411.52)
+[INFO ] 2017-02-04 17:20:22.503 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 7031 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-04 17:20:22.504 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-04 17:20:24.132 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 1.698 seconds (JVM running for 2089.851)
+[INFO ] 2017-02-06 19:14:01.910 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 2820 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-06 19:14:01.947 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-06 19:14:10.553 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 10.233 seconds (JVM running for 11.871)
+[INFO ] 2017-02-06 19:16:22.535 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 2820 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-06 19:16:22.535 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-06 19:16:24.988 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 2.526 seconds (JVM running for 146.306)
+[INFO ] 2017-02-06 19:17:06.726 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 2820 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-06 19:17:06.727 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-06 19:17:07.902 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:17:07.902 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:17:07.902 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:17:07.902 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - WebSecurity configure with auth get called
+[INFO ] 2017-02-06 19:17:07.903 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:17:07.903 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:17:08.147 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:17:08.147 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:17:08.147 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:17:08.147 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - WebSecurity configure with auth get called
+[INFO ] 2017-02-06 19:17:08.147 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:17:08.147 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:17:08.413 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 1.75 seconds (JVM running for 189.731)
+[INFO ] 2017-02-06 19:17:52.145 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 2820 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-06 19:17:52.145 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-06 19:17:53.327 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:17:53.327 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:17:53.327 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:17:53.327 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - WebSecurity configure with auth get called
+[INFO ] 2017-02-06 19:17:53.327 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:17:53.327 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:17:53.619 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:17:53.619 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:17:53.619 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:17:53.620 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - WebSecurity configure with auth get called
+[INFO ] 2017-02-06 19:17:53.620 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:17:53.620 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:17:53.870 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 1.792 seconds (JVM running for 235.188)
+[INFO ] 2017-02-06 19:22:24.379 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 2820 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-06 19:22:24.379 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-06 19:22:25.505 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:22:25.505 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:22:25.505 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:22:25.506 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - WebSecurity configure with auth get called
+[INFO ] 2017-02-06 19:22:25.506 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:22:25.506 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:22:25.811 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:22:25.811 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:22:25.811 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:22:25.811 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - WebSecurity configure with auth get called
+[INFO ] 2017-02-06 19:22:25.812 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:22:25.812 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:22:26.122 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 1.806 seconds (JVM running for 507.44)
+[INFO ] 2017-02-06 19:22:48.723 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 2820 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-06 19:22:48.723 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-06 19:22:49.819 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:22:49.820 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:22:49.820 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:22:49.820 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - WebSecurity configure with auth get called
+[INFO ] 2017-02-06 19:22:49.820 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:22:49.820 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:22:50.120 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:22:50.120 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:22:50.121 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:22:50.121 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - WebSecurity configure with auth get called
+[INFO ] 2017-02-06 19:22:50.121 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:22:50.121 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:22:50.353 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 1.693 seconds (JVM running for 531.672)
+[INFO ] 2017-02-06 19:23:14.065 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 2820 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-06 19:23:14.066 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-06 19:23:15.219 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:23:15.220 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:23:15.220 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:23:15.220 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - WebSecurity configure with auth get called
+[INFO ] 2017-02-06 19:23:15.220 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:23:15.220 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:23:15.511 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:23:15.511 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:23:15.512 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:23:15.512 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - WebSecurity configure with auth get called
+[INFO ] 2017-02-06 19:23:15.512 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:23:15.512 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$f75d1bd9 - *********************
+[INFO ] 2017-02-06 19:23:15.761 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 1.76 seconds (JVM running for 557.08)
+[INFO ] 2017-02-06 19:24:58.227 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 3312 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-06 19:24:58.229 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-06 19:25:04.002 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$758243a6 - *********************
+[INFO ] 2017-02-06 19:25:04.002 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$758243a6 - *********************
+[INFO ] 2017-02-06 19:25:04.002 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$758243a6 - *********************
+[INFO ] 2017-02-06 19:25:04.003 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$758243a6 - WebSecurity configure with auth get called
+[INFO ] 2017-02-06 19:25:04.003 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$758243a6 - *********************
+[INFO ] 2017-02-06 19:25:04.003 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$758243a6 - *********************
+[INFO ] 2017-02-06 19:25:04.665 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$758243a6 - *********************
+[INFO ] 2017-02-06 19:25:04.665 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$758243a6 - *********************
+[INFO ] 2017-02-06 19:25:04.665 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$758243a6 - *********************
+[INFO ] 2017-02-06 19:25:04.665 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$758243a6 - WebSecurity configure with auth get called
+[INFO ] 2017-02-06 19:25:04.666 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$758243a6 - *********************
+[INFO ] 2017-02-06 19:25:04.666 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$758243a6 - *********************
+[INFO ] 2017-02-06 19:25:05.988 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 9.663 seconds (JVM running for 11.445)
+[INFO ] 2017-02-06 19:30:30.672 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 3312 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-06 19:30:30.673 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-06 19:30:32.364 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$758243a6 - *********************
+[INFO ] 2017-02-06 19:30:32.364 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$758243a6 - *********************
+[INFO ] 2017-02-06 19:30:32.364 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$758243a6 - *********************
+[INFO ] 2017-02-06 19:30:32.364 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$758243a6 - WebSecurity configure with auth get called
+[INFO ] 2017-02-06 19:30:32.364 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$758243a6 - *********************
+[INFO ] 2017-02-06 19:30:32.365 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$758243a6 - *********************
+[INFO ] 2017-02-06 19:30:32.701 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$758243a6 - *********************
+[INFO ] 2017-02-06 19:30:32.701 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$758243a6 - *********************
+[INFO ] 2017-02-06 19:30:32.701 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$758243a6 - *********************
+[INFO ] 2017-02-06 19:30:32.701 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$758243a6 - WebSecurity configure with auth get called
+[INFO ] 2017-02-06 19:30:32.701 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$758243a6 - *********************
+[INFO ] 2017-02-06 19:30:32.701 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$758243a6 - *********************
+[INFO ] 2017-02-06 19:30:33.008 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 2.413 seconds (JVM running for 338.465)
+[INFO ] 2017-02-06 19:46:28.334 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 3828 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-06 19:46:28.336 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-06 19:46:33.207 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - *********************
+[INFO ] 2017-02-06 19:46:33.207 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - *********************
+[INFO ] 2017-02-06 19:46:33.207 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - *********************
+[INFO ] 2017-02-06 19:46:33.207 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - WebSecurity configure with auth get called
+[INFO ] 2017-02-06 19:46:33.207 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - *********************
+[INFO ] 2017-02-06 19:46:33.207 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - *********************
+[INFO ] 2017-02-06 19:46:33.837 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - *********************
+[INFO ] 2017-02-06 19:46:33.837 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - *********************
+[INFO ] 2017-02-06 19:46:33.837 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - *********************
+[INFO ] 2017-02-06 19:46:33.837 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - WebSecurity configure with auth get called
+[INFO ] 2017-02-06 19:46:33.838 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - *********************
+[INFO ] 2017-02-06 19:46:33.838 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - *********************
+[INFO ] 2017-02-06 19:46:35.084 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 7.405 seconds (JVM running for 8.196)
+[INFO ] 2017-02-06 19:47:19.734 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 3828 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-06 19:47:19.734 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-06 19:47:21.067 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - *********************
+[INFO ] 2017-02-06 19:47:21.068 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - *********************
+[INFO ] 2017-02-06 19:47:21.068 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - *********************
+[INFO ] 2017-02-06 19:47:21.068 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - WebSecurity configure with auth get called
+[INFO ] 2017-02-06 19:47:21.068 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - *********************
+[INFO ] 2017-02-06 19:47:21.068 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - *********************
+[INFO ] 2017-02-06 19:47:21.368 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - *********************
+[INFO ] 2017-02-06 19:47:21.368 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - *********************
+[INFO ] 2017-02-06 19:47:21.368 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - *********************
+[INFO ] 2017-02-06 19:47:21.368 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - WebSecurity configure with auth get called
+[INFO ] 2017-02-06 19:47:21.369 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - *********************
+[INFO ] 2017-02-06 19:47:21.369 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - *********************
+[INFO ] 2017-02-06 19:47:21.703 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 2.047 seconds (JVM running for 54.815)
+[INFO ] 2017-02-06 19:47:34.448 [http-nio-8080-exec-5] LoginController - ********** Inside login of LoginController **************
+[INFO ] 2017-02-06 19:51:00.069 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 3828 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-06 19:51:00.070 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-06 19:51:01.434 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - *********************
+[INFO ] 2017-02-06 19:51:01.434 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - *********************
+[INFO ] 2017-02-06 19:51:01.435 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - *********************
+[INFO ] 2017-02-06 19:51:01.435 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - WebSecurity configure with auth get called
+[INFO ] 2017-02-06 19:51:01.435 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - *********************
+[INFO ] 2017-02-06 19:51:01.435 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - *********************
+[INFO ] 2017-02-06 19:51:01.754 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - *********************
+[INFO ] 2017-02-06 19:51:01.755 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - *********************
+[INFO ] 2017-02-06 19:51:01.755 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - *********************
+[INFO ] 2017-02-06 19:51:01.755 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - WebSecurity configure with auth get called
+[INFO ] 2017-02-06 19:51:01.755 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - *********************
+[INFO ] 2017-02-06 19:51:01.756 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - *********************
+[INFO ] 2017-02-06 19:51:02.100 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 2.113 seconds (JVM running for 275.212)
+[INFO ] 2017-02-06 19:51:36.802 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 3828 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-06 19:51:36.803 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-06 19:51:37.964 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - *********************
+[INFO ] 2017-02-06 19:51:37.964 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - *********************
+[INFO ] 2017-02-06 19:51:37.965 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - *********************
+[INFO ] 2017-02-06 19:51:37.965 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - WebSecurity configure with auth get called
+[INFO ] 2017-02-06 19:51:37.965 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - *********************
+[INFO ] 2017-02-06 19:51:37.965 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - *********************
+[INFO ] 2017-02-06 19:51:38.245 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - *********************
+[INFO ] 2017-02-06 19:51:38.245 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - *********************
+[INFO ] 2017-02-06 19:51:38.245 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - *********************
+[INFO ] 2017-02-06 19:51:38.245 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - WebSecurity configure with auth get called
+[INFO ] 2017-02-06 19:51:38.245 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - *********************
+[INFO ] 2017-02-06 19:51:38.245 [restartedMain] WebSecurityConfig$$EnhancerBySpringCGLIB$$fa9de6bc - *********************
+[INFO ] 2017-02-06 19:51:38.517 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 1.789 seconds (JVM running for 311.629)
+[INFO ] 2017-02-06 19:54:35.812 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 4124 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-06 19:54:35.814 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-06 19:54:42.093 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 6.924 seconds (JVM running for 7.695)
+[INFO ] 2017-02-06 19:57:49.393 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 4124 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-06 19:57:49.394 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-06 19:57:51.616 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 2.299 seconds (JVM running for 197.219)
+[INFO ] 2017-02-06 19:58:30.389 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 4124 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-06 19:58:30.396 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-06 19:58:32.527 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 2.213 seconds (JVM running for 238.129)
+[INFO ] 2017-02-06 20:34:39.839 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 5002 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-06 20:34:39.841 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-06 20:35:38.515 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 5071 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-06 20:35:38.520 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-06 20:35:45.125 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 7.3 seconds (JVM running for 8.082)
+[INFO ] 2017-02-06 20:35:59.133 [http-nio-8080-exec-3] LoginService - ******************************************
+[INFO ] 2017-02-06 20:35:59.134 [http-nio-8080-exec-3] LoginService - In LoginService::: userName> 
+[INFO ] 2017-02-06 20:35:59.134 [http-nio-8080-exec-3] LoginService - ******************************************
+[INFO ] 2017-02-06 20:35:59.134 [http-nio-8080-exec-3] LoginService - ******************************************
+[INFO ] 2017-02-06 20:35:59.150 [http-nio-8080-exec-3] AdminRepository - *****************************************
+[INFO ] 2017-02-06 20:35:59.151 [http-nio-8080-exec-3] AdminRepository - *****************************************
+[INFO ] 2017-02-06 20:35:59.151 [http-nio-8080-exec-3] AdminRepository - *****************************************
+[INFO ] 2017-02-06 20:35:59.151 [http-nio-8080-exec-3] AdminRepository - User Name > 
+[INFO ] 2017-02-06 20:35:59.151 [http-nio-8080-exec-3] AdminRepository - *****************************************
+[INFO ] 2017-02-06 20:35:59.151 [http-nio-8080-exec-3] AdminRepository - *****************************************
+[INFO ] 2017-02-06 20:35:59.151 [http-nio-8080-exec-3] AdminRepository - *****************************************
+[INFO ] 2017-02-06 21:47:29.228 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 5071 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-06 21:47:29.229 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-06 21:47:31.083 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 1.921 seconds (JVM running for 4314.04)
+[INFO ] 2017-02-06 21:48:04.843 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 5071 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-06 21:48:04.844 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-06 21:48:06.727 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 1.959 seconds (JVM running for 4349.684)
+[INFO ] 2017-02-06 21:48:26.329 [http-nio-8080-exec-7] LoginService - ******************************************
+[INFO ] 2017-02-06 21:48:26.330 [http-nio-8080-exec-7] LoginService - In LoginService::: userName> 
+[INFO ] 2017-02-06 21:48:26.330 [http-nio-8080-exec-7] LoginService - ******************************************
+[INFO ] 2017-02-06 21:48:26.330 [http-nio-8080-exec-7] LoginService - ******************************************
+[INFO ] 2017-02-06 21:48:26.342 [http-nio-8080-exec-7] AdminRepository - *****************************************
+[INFO ] 2017-02-06 21:48:26.342 [http-nio-8080-exec-7] AdminRepository - User Name > 
+[INFO ] 2017-02-06 21:48:26.342 [http-nio-8080-exec-7] AdminRepository - *****************************************
+[INFO ] 2017-02-06 21:48:26.342 [http-nio-8080-exec-7] AdminRepository - *****************************************
+[INFO ] 2017-02-06 21:51:14.060 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 5071 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-06 21:51:14.060 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-06 21:52:44.130 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 5071 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-06 21:52:44.130 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-06 21:55:12.968 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 5071 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-06 21:55:12.968 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-06 21:55:30.923 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 5071 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-06 21:55:30.923 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-06 21:55:32.581 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 1.687 seconds (JVM running for 4795.538)
+[INFO ] 2017-02-06 21:55:37.245 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 5071 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-06 21:55:37.245 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-06 21:55:38.641 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 1.446 seconds (JVM running for 4801.598)
+[INFO ] 2017-02-06 21:55:50.521 [http-nio-8080-exec-1] LoginService - ******************************************
+[INFO ] 2017-02-06 21:55:50.543 [http-nio-8080-exec-1] LoginService - In LoginService::: userName> 
+[INFO ] 2017-02-06 21:55:50.544 [http-nio-8080-exec-1] LoginService - ******************************************
+[INFO ] 2017-02-06 21:55:50.544 [http-nio-8080-exec-1] LoginService - ******************************************
+[INFO ] 2017-02-06 21:55:50.554 [http-nio-8080-exec-1] AdminRepository - *****************************************
+[INFO ] 2017-02-06 21:55:50.554 [http-nio-8080-exec-1] AdminRepository - User Name > 
+[INFO ] 2017-02-06 21:55:50.554 [http-nio-8080-exec-1] AdminRepository - *****************************************
+[INFO ] 2017-02-06 21:55:50.554 [http-nio-8080-exec-1] AdminRepository - *****************************************
+[INFO ] 2017-02-06 21:59:29.994 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 5071 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-06 21:59:29.994 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-06 21:59:31.373 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 1.423 seconds (JVM running for 5034.33)
+[INFO ] 2017-02-06 21:59:51.111 [http-nio-8080-exec-1] LoginService - ******************************************
+[INFO ] 2017-02-06 21:59:51.112 [http-nio-8080-exec-1] LoginService - In LoginService::: userName> 
+[INFO ] 2017-02-06 21:59:51.112 [http-nio-8080-exec-1] LoginService - ******************************************
+[INFO ] 2017-02-06 21:59:51.112 [http-nio-8080-exec-1] LoginService - ******************************************
+[INFO ] 2017-02-06 21:59:51.122 [http-nio-8080-exec-1] AdminRepository - *****************************************
+[INFO ] 2017-02-06 21:59:51.122 [http-nio-8080-exec-1] AdminRepository - User Name > 
+[INFO ] 2017-02-06 21:59:51.122 [http-nio-8080-exec-1] AdminRepository - *****************************************
+[INFO ] 2017-02-06 21:59:51.123 [http-nio-8080-exec-1] AdminRepository - *****************************************
+[INFO ] 2017-02-06 21:59:51.385 [http-nio-8080-exec-1] LoginService - ******************************************
+[INFO ] 2017-02-06 21:59:51.385 [http-nio-8080-exec-1] LoginService - In LoginService::: userName> 
+[INFO ] 2017-02-06 21:59:51.385 [http-nio-8080-exec-1] LoginService - ******************************************
+[INFO ] 2017-02-06 21:59:51.385 [http-nio-8080-exec-1] LoginService - ******************************************
+[INFO ] 2017-02-06 21:59:51.385 [http-nio-8080-exec-1] AdminRepository - *****************************************
+[INFO ] 2017-02-06 21:59:51.385 [http-nio-8080-exec-1] AdminRepository - User Name > 
+[INFO ] 2017-02-06 21:59:51.385 [http-nio-8080-exec-1] AdminRepository - *****************************************
+[INFO ] 2017-02-06 21:59:51.385 [http-nio-8080-exec-1] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:00:31.177 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 5071 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-06 22:00:31.178 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-06 22:00:32.553 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 1.424 seconds (JVM running for 5095.51)
+[INFO ] 2017-02-06 22:00:44.933 [http-nio-8080-exec-9] LoginService - ******************************************
+[INFO ] 2017-02-06 22:00:44.933 [http-nio-8080-exec-9] LoginService - In LoginService::: userName> 
+[INFO ] 2017-02-06 22:00:44.933 [http-nio-8080-exec-9] LoginService - ******************************************
+[INFO ] 2017-02-06 22:00:44.933 [http-nio-8080-exec-9] LoginService - ******************************************
+[INFO ] 2017-02-06 22:00:44.944 [http-nio-8080-exec-9] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:00:44.944 [http-nio-8080-exec-9] AdminRepository - User Name > 
+[INFO ] 2017-02-06 22:00:44.944 [http-nio-8080-exec-9] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:00:44.944 [http-nio-8080-exec-9] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:00:45.195 [http-nio-8080-exec-9] LoginService - ******************************************
+[INFO ] 2017-02-06 22:00:45.195 [http-nio-8080-exec-9] LoginService - In LoginService::: userName> 
+[INFO ] 2017-02-06 22:00:45.195 [http-nio-8080-exec-9] LoginService - ******************************************
+[INFO ] 2017-02-06 22:00:45.195 [http-nio-8080-exec-9] LoginService - ******************************************
+[INFO ] 2017-02-06 22:00:45.195 [http-nio-8080-exec-9] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:00:45.195 [http-nio-8080-exec-9] AdminRepository - User Name > 
+[INFO ] 2017-02-06 22:00:45.195 [http-nio-8080-exec-9] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:00:45.195 [http-nio-8080-exec-9] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:13:02.986 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 5071 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-06 22:13:02.986 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-06 22:13:04.661 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 1.717 seconds (JVM running for 5847.619)
+[INFO ] 2017-02-06 22:13:19.962 [http-nio-8080-exec-9] LoginService - ******************************************
+[INFO ] 2017-02-06 22:13:19.962 [http-nio-8080-exec-9] LoginService - In LoginService::: userName> 
+[INFO ] 2017-02-06 22:13:19.962 [http-nio-8080-exec-9] LoginService - ******************************************
+[INFO ] 2017-02-06 22:13:19.962 [http-nio-8080-exec-9] LoginService - ******************************************
+[INFO ] 2017-02-06 22:13:19.972 [http-nio-8080-exec-9] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:13:19.972 [http-nio-8080-exec-9] AdminRepository - User Name > 
+[INFO ] 2017-02-06 22:13:19.972 [http-nio-8080-exec-9] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:13:19.972 [http-nio-8080-exec-9] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:13:20.329 [http-nio-8080-exec-9] LoginService - ******************************************
+[INFO ] 2017-02-06 22:13:20.343 [http-nio-8080-exec-9] LoginService - In LoginService::: userName> 
+[INFO ] 2017-02-06 22:13:20.343 [http-nio-8080-exec-9] LoginService - ******************************************
+[INFO ] 2017-02-06 22:13:20.343 [http-nio-8080-exec-9] LoginService - ******************************************
+[INFO ] 2017-02-06 22:13:20.344 [http-nio-8080-exec-9] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:13:20.344 [http-nio-8080-exec-9] AdminRepository - User Name > 
+[INFO ] 2017-02-06 22:13:20.344 [http-nio-8080-exec-9] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:13:20.344 [http-nio-8080-exec-9] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:15:42.815 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 5071 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-06 22:15:42.822 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-06 22:16:27.007 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 5071 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-06 22:16:27.007 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-06 22:18:12.142 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 6498 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-06 22:18:12.197 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-06 22:20:55.336 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 6601 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-06 22:20:55.337 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-06 22:22:11.681 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 6694 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-06 22:22:11.683 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-06 22:23:00.301 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 6760 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-06 22:23:00.304 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-06 22:23:07.488 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 7.849 seconds (JVM running for 8.652)
+[INFO ] 2017-02-06 22:23:22.860 [http-nio-8080-exec-9] LoginService - ******************************************
+[INFO ] 2017-02-06 22:23:22.860 [http-nio-8080-exec-9] LoginService - In LoginService::: userName> 
+[INFO ] 2017-02-06 22:23:22.860 [http-nio-8080-exec-9] LoginService - ******************************************
+[INFO ] 2017-02-06 22:23:22.860 [http-nio-8080-exec-9] LoginService - ******************************************
+[INFO ] 2017-02-06 22:23:22.878 [http-nio-8080-exec-9] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:23:22.878 [http-nio-8080-exec-9] AdminRepository - User Name > 
+[INFO ] 2017-02-06 22:23:22.878 [http-nio-8080-exec-9] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:23:22.879 [http-nio-8080-exec-9] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:23:23.798 [http-nio-8080-exec-9] LoginService - ******************************************
+[INFO ] 2017-02-06 22:23:23.798 [http-nio-8080-exec-9] LoginService - In LoginService::: userName> 
+[INFO ] 2017-02-06 22:23:23.798 [http-nio-8080-exec-9] LoginService - ******************************************
+[INFO ] 2017-02-06 22:23:23.798 [http-nio-8080-exec-9] LoginService - ******************************************
+[INFO ] 2017-02-06 22:23:23.798 [http-nio-8080-exec-9] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:23:23.798 [http-nio-8080-exec-9] AdminRepository - User Name > 
+[INFO ] 2017-02-06 22:23:23.798 [http-nio-8080-exec-9] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:23:23.799 [http-nio-8080-exec-9] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:28:40.884 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 6760 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-06 22:28:40.884 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-06 22:28:42.647 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 1.843 seconds (JVM running for 343.81)
+[INFO ] 2017-02-06 22:29:47.580 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 6760 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-06 22:29:47.581 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-06 22:29:49.627 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 2.119 seconds (JVM running for 410.79)
+[INFO ] 2017-02-06 22:30:03.327 [http-nio-8080-exec-8] LoginService - ******************************************
+[INFO ] 2017-02-06 22:30:03.328 [http-nio-8080-exec-8] LoginService - In LoginService::: userName> 
+[INFO ] 2017-02-06 22:30:03.328 [http-nio-8080-exec-8] LoginService - ******************************************
+[INFO ] 2017-02-06 22:30:03.328 [http-nio-8080-exec-8] LoginService - ******************************************
+[INFO ] 2017-02-06 22:30:03.340 [http-nio-8080-exec-8] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:30:03.340 [http-nio-8080-exec-8] AdminRepository - User Name > 
+[INFO ] 2017-02-06 22:30:03.340 [http-nio-8080-exec-8] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:30:03.340 [http-nio-8080-exec-8] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:30:03.685 [http-nio-8080-exec-8] LoginService - ******************************************
+[INFO ] 2017-02-06 22:30:03.685 [http-nio-8080-exec-8] LoginService - In LoginService::: userName> 
+[INFO ] 2017-02-06 22:30:03.685 [http-nio-8080-exec-8] LoginService - ******************************************
+[INFO ] 2017-02-06 22:30:03.685 [http-nio-8080-exec-8] LoginService - ******************************************
+[INFO ] 2017-02-06 22:30:03.685 [http-nio-8080-exec-8] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:30:03.685 [http-nio-8080-exec-8] AdminRepository - User Name > 
+[INFO ] 2017-02-06 22:30:03.685 [http-nio-8080-exec-8] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:30:03.685 [http-nio-8080-exec-8] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:30:37.353 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 6760 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-06 22:30:37.353 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-06 22:30:39.006 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 1.702 seconds (JVM running for 460.169)
+[INFO ] 2017-02-06 22:30:51.350 [http-nio-8080-exec-2] LoginService - ******************************************
+[INFO ] 2017-02-06 22:30:51.351 [http-nio-8080-exec-2] LoginService - In LoginService::: userName> 
+[INFO ] 2017-02-06 22:30:51.351 [http-nio-8080-exec-2] LoginService - ******************************************
+[INFO ] 2017-02-06 22:30:51.351 [http-nio-8080-exec-2] LoginService - ******************************************
+[INFO ] 2017-02-06 22:30:51.364 [http-nio-8080-exec-2] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:30:51.364 [http-nio-8080-exec-2] AdminRepository - User Name > 
+[INFO ] 2017-02-06 22:30:51.364 [http-nio-8080-exec-2] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:30:51.364 [http-nio-8080-exec-2] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:30:51.633 [http-nio-8080-exec-2] LoginService - ******************************************
+[INFO ] 2017-02-06 22:30:51.633 [http-nio-8080-exec-2] LoginService - In LoginService::: userName> 
+[INFO ] 2017-02-06 22:30:51.633 [http-nio-8080-exec-2] LoginService - ******************************************
+[INFO ] 2017-02-06 22:30:51.633 [http-nio-8080-exec-2] LoginService - ******************************************
+[INFO ] 2017-02-06 22:30:51.633 [http-nio-8080-exec-2] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:30:51.634 [http-nio-8080-exec-2] AdminRepository - User Name > 
+[INFO ] 2017-02-06 22:30:51.634 [http-nio-8080-exec-2] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:30:51.634 [http-nio-8080-exec-2] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:34:09.373 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 6760 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-06 22:34:09.373 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-06 22:34:11.212 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 1.912 seconds (JVM running for 672.376)
+[INFO ] 2017-02-06 22:35:17.714 [http-nio-8080-exec-1] LoginService - ******************************************
+[INFO ] 2017-02-06 22:35:17.714 [http-nio-8080-exec-1] LoginService - In LoginService::: userName> 
+[INFO ] 2017-02-06 22:35:17.714 [http-nio-8080-exec-1] LoginService - ******************************************
+[INFO ] 2017-02-06 22:35:17.714 [http-nio-8080-exec-1] LoginService - ******************************************
+[INFO ] 2017-02-06 22:35:17.725 [http-nio-8080-exec-1] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:35:17.725 [http-nio-8080-exec-1] AdminRepository - User Name > 
+[INFO ] 2017-02-06 22:35:17.725 [http-nio-8080-exec-1] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:35:17.725 [http-nio-8080-exec-1] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:35:17.794 [http-nio-8080-exec-1] LoginService - ******************************************
+[INFO ] 2017-02-06 22:35:17.794 [http-nio-8080-exec-1] LoginService - In LoginService::: userName> 
+[INFO ] 2017-02-06 22:35:17.794 [http-nio-8080-exec-1] LoginService - ******************************************
+[INFO ] 2017-02-06 22:35:17.794 [http-nio-8080-exec-1] LoginService - ******************************************
+[INFO ] 2017-02-06 22:35:17.794 [http-nio-8080-exec-1] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:35:17.794 [http-nio-8080-exec-1] AdminRepository - User Name > 
+[INFO ] 2017-02-06 22:35:17.794 [http-nio-8080-exec-1] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:35:17.794 [http-nio-8080-exec-1] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:35:17.990 [http-nio-8080-exec-1] LoginService - ******************************************
+[INFO ] 2017-02-06 22:35:17.990 [http-nio-8080-exec-1] LoginService - In LoginService::: userName> 
+[INFO ] 2017-02-06 22:35:17.990 [http-nio-8080-exec-1] LoginService - ******************************************
+[INFO ] 2017-02-06 22:35:17.990 [http-nio-8080-exec-1] LoginService - ******************************************
+[INFO ] 2017-02-06 22:35:17.990 [http-nio-8080-exec-1] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:35:17.990 [http-nio-8080-exec-1] AdminRepository - User Name > 
+[INFO ] 2017-02-06 22:35:17.990 [http-nio-8080-exec-1] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:35:17.990 [http-nio-8080-exec-1] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:37:03.324 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 6760 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-06 22:37:03.324 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-06 22:37:04.928 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 1.667 seconds (JVM running for 846.091)
+[INFO ] 2017-02-06 22:37:19.960 [http-nio-8080-exec-3] LoginService - ******************************************
+[INFO ] 2017-02-06 22:37:19.960 [http-nio-8080-exec-3] LoginService - In LoginService::: userName> 
+[INFO ] 2017-02-06 22:37:19.961 [http-nio-8080-exec-3] LoginService - ******************************************
+[INFO ] 2017-02-06 22:37:19.961 [http-nio-8080-exec-3] LoginService - ******************************************
+[INFO ] 2017-02-06 22:37:19.982 [http-nio-8080-exec-3] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:37:19.983 [http-nio-8080-exec-3] AdminRepository - User Name > 
+[INFO ] 2017-02-06 22:37:19.983 [http-nio-8080-exec-3] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:37:19.983 [http-nio-8080-exec-3] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:37:20.039 [http-nio-8080-exec-3] LoginService - ******************************************
+[INFO ] 2017-02-06 22:37:20.040 [http-nio-8080-exec-3] LoginService - In LoginService::: userName> 
+[INFO ] 2017-02-06 22:37:20.040 [http-nio-8080-exec-3] LoginService - ******************************************
+[INFO ] 2017-02-06 22:37:20.040 [http-nio-8080-exec-3] LoginService - ******************************************
+[INFO ] 2017-02-06 22:37:20.040 [http-nio-8080-exec-3] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:37:20.040 [http-nio-8080-exec-3] AdminRepository - User Name > 
+[INFO ] 2017-02-06 22:37:20.041 [http-nio-8080-exec-3] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:37:20.041 [http-nio-8080-exec-3] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:37:20.242 [http-nio-8080-exec-3] LoginService - ******************************************
+[INFO ] 2017-02-06 22:37:20.242 [http-nio-8080-exec-3] LoginService - In LoginService::: userName> 
+[INFO ] 2017-02-06 22:37:20.242 [http-nio-8080-exec-3] LoginService - ******************************************
+[INFO ] 2017-02-06 22:37:20.242 [http-nio-8080-exec-3] LoginService - ******************************************
+[INFO ] 2017-02-06 22:37:20.242 [http-nio-8080-exec-3] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:37:20.243 [http-nio-8080-exec-3] AdminRepository - User Name > 
+[INFO ] 2017-02-06 22:37:20.243 [http-nio-8080-exec-3] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:37:20.243 [http-nio-8080-exec-3] AdminRepository - *****************************************
+[INFO ] 2017-02-06 22:37:45.660 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 6760 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-06 22:37:45.660 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-06 22:37:47.410 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 1.815 seconds (JVM running for 888.574)
+[INFO ] 2017-02-07 19:31:18.838 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 3009 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-07 19:31:18.899 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-07 19:31:30.940 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 13.582 seconds (JVM running for 16.09)
+[INFO ] 2017-02-07 19:32:08.323 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 3009 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-07 19:32:08.323 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-07 19:32:12.238 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 4.063 seconds (JVM running for 57.388)
+[INFO ] 2017-02-07 19:32:25.164 [http-nio-8080-exec-3] LoginService - ******************************************
+[INFO ] 2017-02-07 19:32:25.165 [http-nio-8080-exec-3] LoginService - userName> 
+[INFO ] 2017-02-07 19:32:25.165 [http-nio-8080-exec-3] LoginService - ******************************************
+[INFO ] 2017-02-07 19:32:25.165 [http-nio-8080-exec-3] LoginService - ******************************************
+[INFO ] 2017-02-07 19:39:42.996 [http-nio-8080-exec-3] AdminRepository - *****************************************
+[INFO ] 2017-02-07 19:39:42.996 [http-nio-8080-exec-3] AdminRepository - User Name > 
+[INFO ] 2017-02-07 19:39:42.996 [http-nio-8080-exec-3] AdminRepository - *****************************************
+[INFO ] 2017-02-07 19:39:42.996 [http-nio-8080-exec-3] AdminRepository - *****************************************
+[INFO ] 2017-02-07 19:39:43.816 [http-nio-8080-exec-3] LoginService - ******************************************
+[INFO ] 2017-02-07 19:39:43.816 [http-nio-8080-exec-3] LoginService - userName> 
+[INFO ] 2017-02-07 19:39:43.816 [http-nio-8080-exec-3] LoginService - ******************************************
+[INFO ] 2017-02-07 19:39:43.816 [http-nio-8080-exec-3] LoginService - ******************************************
+[INFO ] 2017-02-07 19:41:59.643 [http-nio-8080-exec-3] AdminRepository - *****************************************
+[INFO ] 2017-02-07 19:41:59.643 [http-nio-8080-exec-3] AdminRepository - User Name > 
+[INFO ] 2017-02-07 19:41:59.643 [http-nio-8080-exec-3] AdminRepository - *****************************************
+[INFO ] 2017-02-07 19:41:59.643 [http-nio-8080-exec-3] AdminRepository - *****************************************
+[INFO ] 2017-02-07 19:41:59.879 [http-nio-8080-exec-3] LoginService - ******************************************
+[INFO ] 2017-02-07 19:41:59.879 [http-nio-8080-exec-3] LoginService - userName> 
+[INFO ] 2017-02-07 19:41:59.879 [http-nio-8080-exec-3] LoginService - ******************************************
+[INFO ] 2017-02-07 19:41:59.880 [http-nio-8080-exec-3] LoginService - ******************************************
+[INFO ] 2017-02-07 19:42:01.362 [http-nio-8080-exec-3] AdminRepository - *****************************************
+[INFO ] 2017-02-07 19:42:01.362 [http-nio-8080-exec-3] AdminRepository - User Name > 
+[INFO ] 2017-02-07 19:42:01.363 [http-nio-8080-exec-3] AdminRepository - *****************************************
+[INFO ] 2017-02-07 19:42:01.363 [http-nio-8080-exec-3] AdminRepository - *****************************************
+[INFO ] 2017-02-07 19:45:15.373 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 3009 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-07 19:45:15.374 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-07 19:45:18.473 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 3.2 seconds (JVM running for 843.623)
+[INFO ] 2017-02-07 19:45:42.080 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 3009 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-07 19:45:42.080 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-07 19:45:44.967 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 2.971 seconds (JVM running for 870.117)
+[INFO ] 2017-02-07 19:46:11.615 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 3009 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-07 19:46:11.616 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-07 19:46:14.138 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 2.61 seconds (JVM running for 899.288)
+[INFO ] 2017-02-07 20:03:19.124 [http-nio-8080-exec-7] LoginService - ******************************************
+[INFO ] 2017-02-07 20:03:19.125 [http-nio-8080-exec-7] LoginService - userName> 
+[INFO ] 2017-02-07 20:03:19.125 [http-nio-8080-exec-7] LoginService - ******************************************
+[INFO ] 2017-02-07 20:03:19.125 [http-nio-8080-exec-7] LoginService - ******************************************
+[INFO ] 2017-02-07 20:03:27.048 [http-nio-8080-exec-7] AdminRepository - *****************************************
+[INFO ] 2017-02-07 20:03:27.049 [http-nio-8080-exec-7] AdminRepository - User Name > 
+[INFO ] 2017-02-07 20:03:27.049 [http-nio-8080-exec-7] AdminRepository - *****************************************
+[INFO ] 2017-02-07 20:03:27.049 [http-nio-8080-exec-7] AdminRepository - *****************************************
+[INFO ] 2017-02-07 20:03:27.135 [http-nio-8080-exec-7] LoginService - ******************************************
+[INFO ] 2017-02-07 20:03:27.136 [http-nio-8080-exec-7] LoginService - userName> 
+[INFO ] 2017-02-07 20:03:27.136 [http-nio-8080-exec-7] LoginService - ******************************************
+[INFO ] 2017-02-07 20:03:27.136 [http-nio-8080-exec-7] LoginService - ******************************************
+[INFO ] 2017-02-07 20:03:36.588 [http-nio-8080-exec-7] AdminRepository - *****************************************
+[INFO ] 2017-02-07 20:03:36.588 [http-nio-8080-exec-7] AdminRepository - User Name > 
+[INFO ] 2017-02-07 20:03:36.589 [http-nio-8080-exec-7] AdminRepository - *****************************************
+[INFO ] 2017-02-07 20:03:36.589 [http-nio-8080-exec-7] AdminRepository - *****************************************
+[INFO ] 2017-02-07 20:03:36.832 [http-nio-8080-exec-7] LoginService - ******************************************
+[INFO ] 2017-02-07 20:03:36.832 [http-nio-8080-exec-7] LoginService - userName> 
+[INFO ] 2017-02-07 20:03:36.832 [http-nio-8080-exec-7] LoginService - ******************************************
+[INFO ] 2017-02-07 20:03:36.832 [http-nio-8080-exec-7] LoginService - ******************************************
+[INFO ] 2017-02-07 20:03:55.520 [http-nio-8080-exec-7] AdminRepository - *****************************************
+[INFO ] 2017-02-07 20:03:55.521 [http-nio-8080-exec-7] AdminRepository - User Name > 
+[INFO ] 2017-02-07 20:03:55.521 [http-nio-8080-exec-7] AdminRepository - *****************************************
+[INFO ] 2017-02-07 20:03:55.521 [http-nio-8080-exec-7] AdminRepository - *****************************************
+[INFO ] 2017-02-07 20:08:23.720 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 3009 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-07 20:08:23.720 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-07 20:08:26.771 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 3.17 seconds (JVM running for 2231.921)
+[INFO ] 2017-02-07 20:09:21.156 [http-nio-8080-exec-8] LoginService - ******************************************
+[INFO ] 2017-02-07 20:09:21.157 [http-nio-8080-exec-8] LoginService - userName> 
+[INFO ] 2017-02-07 20:09:21.157 [http-nio-8080-exec-8] LoginService - ******************************************
+[INFO ] 2017-02-07 20:09:21.157 [http-nio-8080-exec-8] LoginService - ******************************************
+[INFO ] 2017-02-07 20:09:27.571 [http-nio-8080-exec-8] AdminRepository - *****************************************
+[INFO ] 2017-02-07 20:09:27.572 [http-nio-8080-exec-8] AdminRepository - User Name > 
+[INFO ] 2017-02-07 20:09:27.572 [http-nio-8080-exec-8] AdminRepository - *****************************************
+[INFO ] 2017-02-07 20:09:27.573 [http-nio-8080-exec-8] AdminRepository - *****************************************
+[INFO ] 2017-02-07 20:09:32.636 [http-nio-8080-exec-8] LoginService - ******************************************
+[INFO ] 2017-02-07 20:09:32.637 [http-nio-8080-exec-8] LoginService - userName> 
+[INFO ] 2017-02-07 20:09:32.637 [http-nio-8080-exec-8] LoginService - ******************************************
+[INFO ] 2017-02-07 20:09:32.637 [http-nio-8080-exec-8] LoginService - ******************************************
+[INFO ] 2017-02-07 20:09:36.108 [http-nio-8080-exec-8] AdminRepository - *****************************************
+[INFO ] 2017-02-07 20:09:36.108 [http-nio-8080-exec-8] AdminRepository - User Name > 
+[INFO ] 2017-02-07 20:09:36.109 [http-nio-8080-exec-8] AdminRepository - *****************************************
+[INFO ] 2017-02-07 20:09:36.109 [http-nio-8080-exec-8] AdminRepository - *****************************************
+[INFO ] 2017-02-07 20:09:36.340 [http-nio-8080-exec-8] LoginService - ******************************************
+[INFO ] 2017-02-07 20:09:36.340 [http-nio-8080-exec-8] LoginService - userName> 
+[INFO ] 2017-02-07 20:09:36.340 [http-nio-8080-exec-8] LoginService - ******************************************
+[INFO ] 2017-02-07 20:09:36.340 [http-nio-8080-exec-8] LoginService - ******************************************
+[INFO ] 2017-02-07 20:10:00.986 [http-nio-8080-exec-8] AdminRepository - *****************************************
+[INFO ] 2017-02-07 20:10:00.986 [http-nio-8080-exec-8] AdminRepository - User Name > 
+[INFO ] 2017-02-07 20:10:00.986 [http-nio-8080-exec-8] AdminRepository - *****************************************
+[INFO ] 2017-02-07 20:10:00.986 [http-nio-8080-exec-8] AdminRepository - *****************************************
+[INFO ] 2017-02-07 20:15:20.558 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 3009 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-07 20:15:20.558 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-07 20:15:27.661 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 4070 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-07 20:15:27.663 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-07 20:39:37.274 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 4650 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-07 20:39:37.277 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-07 20:39:47.114 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 10.632 seconds (JVM running for 11.71)
+[INFO ] 2017-02-07 20:40:45.583 [http-nio-8080-exec-7] LoginService - ******************************************
+[INFO ] 2017-02-07 20:40:45.584 [http-nio-8080-exec-7] LoginService - userName> 
+[INFO ] 2017-02-07 20:40:45.584 [http-nio-8080-exec-7] LoginService - ******************************************
+[INFO ] 2017-02-07 20:40:45.584 [http-nio-8080-exec-7] LoginService - ******************************************
+[INFO ] 2017-02-07 20:40:48.046 [http-nio-8080-exec-7] AdminRepository - *****************************************
+[INFO ] 2017-02-07 20:40:48.047 [http-nio-8080-exec-7] AdminRepository - User Name > 
+[INFO ] 2017-02-07 20:40:48.047 [http-nio-8080-exec-7] AdminRepository - *****************************************
+[INFO ] 2017-02-07 20:40:48.047 [http-nio-8080-exec-7] AdminRepository - *****************************************
+[INFO ] 2017-02-07 20:40:48.850 [http-nio-8080-exec-7] LoginService - ******************************************
+[INFO ] 2017-02-07 20:40:48.850 [http-nio-8080-exec-7] LoginService - userName> 
+[INFO ] 2017-02-07 20:40:48.850 [http-nio-8080-exec-7] LoginService - ******************************************
+[INFO ] 2017-02-07 20:40:48.850 [http-nio-8080-exec-7] LoginService - ******************************************
+[INFO ] 2017-02-07 20:44:41.311 [http-nio-8080-exec-7] AdminRepository - *****************************************
+[INFO ] 2017-02-07 20:44:41.311 [http-nio-8080-exec-7] AdminRepository - User Name > 
+[INFO ] 2017-02-07 20:44:41.311 [http-nio-8080-exec-7] AdminRepository - *****************************************
+[INFO ] 2017-02-07 20:44:41.312 [http-nio-8080-exec-7] AdminRepository - *****************************************
+[INFO ] 2017-02-07 20:44:41.525 [http-nio-8080-exec-7] LoginService - ******************************************
+[INFO ] 2017-02-07 20:44:41.525 [http-nio-8080-exec-7] LoginService - userName> 
+[INFO ] 2017-02-07 20:44:41.526 [http-nio-8080-exec-7] LoginService - ******************************************
+[INFO ] 2017-02-07 20:44:41.526 [http-nio-8080-exec-7] LoginService - ******************************************
+[INFO ] 2017-02-07 20:44:43.511 [http-nio-8080-exec-7] AdminRepository - *****************************************
+[INFO ] 2017-02-07 20:44:43.512 [http-nio-8080-exec-7] AdminRepository - User Name > 
+[INFO ] 2017-02-07 20:44:43.512 [http-nio-8080-exec-7] AdminRepository - *****************************************
+[INFO ] 2017-02-07 20:44:43.512 [http-nio-8080-exec-7] AdminRepository - *****************************************
+[INFO ] 2017-02-07 20:46:20.659 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 4650 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-07 20:46:20.659 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-07 20:46:24.308 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 3.731 seconds (JVM running for 408.904)
+[INFO ] 2017-02-07 20:46:50.866 [http-nio-8080-exec-2] AuthenticationFilter - ***************
+[INFO ] 2017-02-07 20:47:26.050 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 4650 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-07 20:47:26.050 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-07 20:47:28.923 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 3.02 seconds (JVM running for 473.52)
+[INFO ] 2017-02-07 20:47:49.766 [http-nio-8080-exec-7] AuthenticationFilter - ***************
+[INFO ] 2017-02-07 20:47:49.766 [http-nio-8080-exec-7] AuthenticationFilter - ***************
+[INFO ] 2017-02-07 20:59:28.835 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 4650 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-07 20:59:28.836 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-07 20:59:31.394 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 2.641 seconds (JVM running for 1195.99)
+[INFO ] 2017-02-07 20:59:50.211 [http-nio-8080-exec-9] AuthenticationFilter - ***************
+[INFO ] 2017-02-07 20:59:50.211 [http-nio-8080-exec-9] AuthenticationFilter - ***************
+[INFO ] 2017-02-07 21:00:29.765 [http-nio-8080-exec-9] LoginService - ******************************************
+[INFO ] 2017-02-07 21:00:29.766 [http-nio-8080-exec-9] LoginService - userName> sujoy.imran@gmail.com
+[INFO ] 2017-02-07 21:00:29.766 [http-nio-8080-exec-9] LoginService - ******************************************
+[INFO ] 2017-02-07 21:00:29.766 [http-nio-8080-exec-9] LoginService - ******************************************
+[INFO ] 2017-02-07 21:00:36.670 [http-nio-8080-exec-9] AdminRepository - *****************************************
+[INFO ] 2017-02-07 21:00:36.671 [http-nio-8080-exec-9] AdminRepository - User Name > sujoy.imran@gmail.com
+[INFO ] 2017-02-07 21:00:36.671 [http-nio-8080-exec-9] AdminRepository - *****************************************
+[INFO ] 2017-02-07 21:00:36.672 [http-nio-8080-exec-9] AdminRepository - *****************************************
+[INFO ] 2017-02-07 21:00:49.701 [http-nio-8080-exec-9] LoginService - ******************************************
+[INFO ] 2017-02-07 21:00:49.702 [http-nio-8080-exec-9] LoginService - userName> sujoy.imran@gmail.com
+[INFO ] 2017-02-07 21:00:49.702 [http-nio-8080-exec-9] LoginService - ******************************************
+[INFO ] 2017-02-07 21:00:49.702 [http-nio-8080-exec-9] LoginService - ******************************************
+[INFO ] 2017-02-07 21:00:51.325 [http-nio-8080-exec-9] AdminRepository - *****************************************
+[INFO ] 2017-02-07 21:00:51.325 [http-nio-8080-exec-9] AdminRepository - User Name > sujoy.imran@gmail.com
+[INFO ] 2017-02-07 21:00:51.326 [http-nio-8080-exec-9] AdminRepository - *****************************************
+[INFO ] 2017-02-07 21:00:51.326 [http-nio-8080-exec-9] AdminRepository - *****************************************
+[INFO ] 2017-02-07 21:08:09.664 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 4650 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-07 21:08:09.671 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-07 21:08:13.380 [restartedMain] TouchinghandApplication - Started TouchinghandApplication in 3.851 seconds (JVM running for 1717.977)
+[INFO ] 2017-02-07 21:08:14.456 [restartedMain] TouchinghandApplication - Starting TouchinghandApplication on debian with PID 4650 (/home/devuser/dev/onlinecounselling/project/touchinghand/target/classes started by devuser in /home/devuser/dev/onlinecounselling/project/touchinghand)
+[INFO ] 2017-02-07 21:08:14.459 [restartedMain] TouchinghandApplication - No active profile set, falling back to default profiles: default

@@ -10,11 +10,11 @@ function LoginController(LoginRegistrationService, ApiBasePath, $location, $stat
   var loginCtrl = this;
 
   loginCtrl.submit = function () {
-      console.log("Inside LoginController submit");
+      console.log("Inside LoginController submit", loginCtrl.user.userName);
         LoginRegistrationService.login(loginCtrl.user, function (data, status, headers, config) {
   			// Success handler
   			console.info('The user has been successfully logged in! ', data, status, headers, config);
-        $location.path('/dashboard');
+        $state.go('dashboard.main');
         //$state.go('');
   		}, function(data, status, headers, config) {
   			// Failure handler

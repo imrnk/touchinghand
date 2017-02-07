@@ -1,4 +1,4 @@
-package org.touchinghand.admin.registration.service;
+package org.touchinghand.admin.service;
 
 import java.util.ArrayList;
 import java.util.List;

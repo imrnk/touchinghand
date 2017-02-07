@@ -1,4 +1,4 @@
-package org.touchinghand.admin.registration.controller;
+package org.touchinghand.admin.controller;
 
 
 import org.slf4j.Logger;
@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.context.request.WebRequest;
 import org.touchinghand.admin.dto.UserDTO;
 import org.touchinghand.admin.model.Admin;
-import org.touchinghand.admin.registration.service.IRegistrationService;
+import org.touchinghand.admin.service.IRegistrationService;
 import org.touchinghand.exception.UserExistException;
 
 @RestController

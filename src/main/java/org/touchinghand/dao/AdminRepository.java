@@ -74,10 +74,7 @@ public class AdminRepository {
 	 */
 	public Admin findByUserName(final String userName) {
 		logger.info("*****************************************");
-		logger.info("*****************************************");
-		logger.info("*****************************************");
 		logger.info("User Name > " + userName);
-		logger.info("*****************************************");
 		logger.info("*****************************************");
 		logger.info("*****************************************");
 		return jdbc.query(FIND_USER_BY_USERNAME.toLowerCase(), ps -> ps.setString(1, userName), this::extract);

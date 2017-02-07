@@ -1,4 +1,4 @@
-package org.touchinghand.admin.registration.service;
+package org.touchinghand.admin.service;
 
 import org.touchinghand.admin.dto.UserDTO;
 import org.touchinghand.admin.model.Admin;
