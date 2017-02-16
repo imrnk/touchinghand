@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('LoginRegistrationModule').factory('Csrf', function ($http, $q, Cookies) {
+angular.module('common').factory('Csrf', function ($http, $q, Cookies) {
 
 	return {
 		addResourcesCsrfToHeaders: function(optionsFunction, headers) {

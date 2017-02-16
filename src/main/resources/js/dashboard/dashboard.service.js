@@ -1,7 +1,7 @@
 (function () {
 'use strict';
 
-angular.module('DashboardModule')
+angular.module('touchinghand')
 .service('DashboardService', DashboardService);
 
 //Login and Registration Service

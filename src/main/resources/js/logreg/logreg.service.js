@@ -1,14 +1,14 @@
 (function () {
 'use strict';
 
-angular.module('LoginRegistrationModule')
+angular.module('touchinghand')
 .service('LoginRegistrationService', LoginRegistrationService);
 
 //Login and Registration Service
 LoginRegistrationService.$inject = ['$http', 'ApiBasePath', '$resource', 'Cookies'];
 function LoginRegistrationService($http, ApiBasePath, $resource, Cookies) {
 
-  var loginResources = $resource(ApiBasePath + '/authenticate', {}, {
+  var loginResources = $resource(ApiBasePath + '/login', {}, {
     options: {method: 'OPTIONS', cache: false}
   });
 
@@ -30,6 +30,15 @@ function LoginRegistrationService($http, ApiBasePath, $resource, Cookies) {
 
   var service = this;
 
+  service.gotodashboard = function (dashboardstate, authenticateduser) {
+
+    SharedService.setLoginSuccessUrl(dashboardstate);
+    SharedService.setAuthenticatedUser(authenticateduser);
+
+  };
+
+  
+
   service.login = function(user, successHandler, errorHandler) {
 
     // Obtain a CSRF token
@@ -46,7 +55,7 @@ function LoginRegistrationService($http, ApiBasePath, $resource, Cookies) {
         'Content-Type': 'application/json'
       };
       headers[$http.defaults.xsrfHeaderName] = csrfToken;
-      console.log("Before calling /login, user : ", user);
+      //console.log("Before calling /login, user : ", user);
       // Post the credentials for logging in
       //var credentials = "username="+user.username+"&password="+user.password;
       $http.post(ApiBasePath + '/login', user, {headers: headers})

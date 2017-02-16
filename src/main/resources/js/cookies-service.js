@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('LoginRegistrationModule').factory('Cookies', function () {
+angular.module('common').factory('Cookies', function () {
 
 	return {
 		/**

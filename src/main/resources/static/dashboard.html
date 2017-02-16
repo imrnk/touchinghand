@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html ng-app="DashboardModule">
+<html ng-app="touchinghand">
     <head>
       <title>Touching Hand - Dashboard - All your work is here</title>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
@@ -23,8 +23,15 @@
       <div id="footer"></div>
 
       <!-- -->
-      <!-- Login Registration Module -->
-      <script src="../js/dashboard/dashboard.module.js"></script>
+      <!-- Security Service-->
+      <script src="../js/security.js"></script>
+
+      <!-- Common Module -->
+      <script src="../js/common.module.js"></script>
+
+      <script src="../js/logreg/logreg.module.js"></script>
+      <!-- Dashboard Module -->
+      <!-- <script src="../js/dashboard/dashboard.module.js"></script> -->
 
       <!-- Cookies Service-->
       <script src="../js/cookies-service.js"></script>
@@ -32,20 +39,25 @@
       <!-- CSRF Service-->
       <script src="../js/csrf-service.js"></script>
 
-      <script src="../js//dashboard/dashboard.routes.js"></script>
+      <script src="../js/routes.js"></script>
 
+      <script src="../js/logreg/login.controller.js"></script>
+
+      <!-- Register Controller -->
+      <script src="../js/logreg/register.controller.js"></script>
+
+      <!-- Login Registration Service-->
+      <script src="../js/logreg/logreg.service.js"></script>
       <!-- Dashboard Controller -->
-      <script src="../js/dashboard/dashboard.controller.js"></script>
+      <script src="../js/dashboard/dashboard.controller.js"></script> 
 
       <!-- Dashboard components-->
-      <script src="../js/dashboard/dashboard.component.addclient.js"></script>
-      <script src="../js/dashboard/dashboard.component.clients.js"></script>
-      <script src="../js/dashboard/dashboard.component.history.js"></script>
+      <!-- <script src="../js/dashboard/dashboard.component.addclient.js"></script> -->
+      <!-- <script src="../js/dashboard/dashboard.component.clients.js"></script> -->
+      <!-- <script src="../js/dashboard/dashboard.component.history.js"></script> -->
 
       <!-- Dashboard Service-->
-      <script src="../js/dashboard/dashboard.service.js"></script>
-
-
+      <!-- <script src="../js/dashboard/dashboard.service.js"></script> -->
 
     </body>
 </html>

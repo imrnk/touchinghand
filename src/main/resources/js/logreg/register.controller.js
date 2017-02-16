@@ -1,7 +1,7 @@
 (function () {
 'use strict';
 
-angular.module('LoginRegistrationModule')
+angular.module('touchinghand')
 .controller('RegistrationController', RegistrationController);
 
 RegistrationController.$inject = ['LoginRegistrationService', 'ApiBasePath', '$state'];

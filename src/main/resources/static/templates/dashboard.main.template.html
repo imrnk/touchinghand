@@ -1,7 +1,20 @@
 
-<div class="index"><a ui-sref="home">Home</a> &lt; <span>List</span></div>
+<div ng-if="dashboardCtrl.currentUser">
+  <button class="btn logout" ng-click="dashboardCtrl.logout()">Log out</button>
+</div>
+<div class="container">
 <div class="dashboard main">
   The main section of the dashboard
+</div>
+<div>
+ add new client
+</div>
+<div>
+ List of active clients
+</div>
+<div>
+ List of all previous clients
+</div>
 </div>
 
 <!--<ui-view></ui-view> -->
