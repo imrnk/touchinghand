@@ -1,6 +1,6 @@
 package org.touchinghand.client.dto;
 
-import java.util.Date;
+import java.time.LocalDateTime;
 
 public class ClientDTO {
 
@@ -21,7 +21,7 @@ public class ClientDTO {
 	private final String email;
 	private final String referenceCounsellor;
 	private final boolean active;
-	private final Date followUpDate;
+	private final LocalDateTime followUpDate;
 
 	private ClientDTO(ClientBuilder builder) {
 		this.clientId = builder.clientId;
@@ -65,7 +65,7 @@ public class ClientDTO {
 		private String email = "";
 		private String referenceCounsellor = "";
 		private boolean active;
-		private Date followUpDate = null;
+		private LocalDateTime followUpDate = null;
 
 		public ClientBuilder(int clientId, String name, String phone) {
 			this.clientId = clientId;
@@ -143,7 +143,7 @@ public class ClientDTO {
 			return this;
 		}
 
-		public ClientBuilder followUpDate(Date followUp) {
+		public ClientBuilder followUpDate(LocalDateTime followUp) {
 			this.followUpDate = followUp;
 			return this;
 		}
@@ -276,7 +276,7 @@ public class ClientDTO {
 	/**
 	 * @return the followUpDate
 	 */
-	public Date getFollowUpDate() {
+	public LocalDateTime getFollowUpDate() {
 		return followUpDate;
 	}
 }

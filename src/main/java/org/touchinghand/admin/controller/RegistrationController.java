@@ -7,6 +7,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
+import org.springframework.util.LinkedMultiValueMap;
+import org.springframework.util.MultiValueMap;
 import org.springframework.validation.BindingResult;
 import org.springframework.validation.Errors;
 import org.springframework.web.bind.annotation.RequestBody;
@@ -45,7 +47,9 @@ public class RegistrationController {
 		try {
 			registered = registrationService.register(user);
 		} catch (UserExistException e) {
-			httpStatus = HttpStatus.BAD_REQUEST;
+			MultiValueMap<String, String> headers = new LinkedMultiValueMap<String, String>();
+			headers.add("message", e.getMessage());
+			return new ResponseEntity<Admin>(registered, headers, HttpStatus.BAD_REQUEST);
 		}
 		
 		if (registered != null) {
