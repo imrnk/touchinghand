@@ -1,14 +1,18 @@
 
 <div ng-if="dashboardCtrl.currentUser">
+  Hello {{dashboardCtrl.currentUser.fullName}}
   <button class="btn logout" ng-click="dashboardCtrl.logout()">Log out</button>
 </div>
 <div class="container">
 <div class="dashboard main">
-  The main section of the dashboard
+  <button ui-sref="home.dashboard.addclient" class="btn">Add New Client</button>
 </div>
-<div>
- add new client
-</div>
+ <div>
+
+
+   <!-- <add-client></add-client>
+   <ui-view></ui-view> -->
+ </div>
 <div>
  List of active clients
 </div>

@@ -1,0 +1,27 @@
+CREATE TABLE IF NOT EXISTS `ocsa`.`client` (
+  `client_id` INT NOT NULL AUTO_INCREMENT,
+  `name` VARCHAR(60) NOT NULL,
+  `gender` VARCHAR(1) NOT NULL,
+  `age` INT(11) NULL,
+  `maritalstatus` VARCHAR(1) NULL,
+  `profession` VARCHAR(20) NULL,
+  `education` VARCHAR(20) NULL,
+  `address` VARCHAR(45) NULL,
+  `city` VARCHAR(25) NOT NULL,
+  `state` VARCHAR(5) NOT NULL,
+  `pin` INT(11) NULL,
+  `country` VARCHAR(5) NOT NULL,
+  `phonenumber1` VARCHAR(20) NOT NULL,
+  `phonenumber2` VARCHAR(20) NULL,
+  `email` VARCHAR(50) NULL,
+  `reference` VARCHAR(60) NULL,
+  `status` VARCHAR(1) NOT NULL,
+  `followupdate` DATE NULL,
+  `created_on` DATETIME NOT NULL,
+  `updated_on` DATETIME NULL,
+  PRIMARY KEY (`client_id`, `name`, `phonenumber1`),
+  UNIQUE INDEX `phonenumber1_UNIQUE` (`phonenumber1` ASC),
+  UNIQUE INDEX `email_UNIQUE` (`email` ASC),
+  UNIQUE INDEX `client_id_UNIQUE` (`client_id` ASC))
+ENGINE = InnoDB
+COMMENT = 'The counselee table'

@@ -1,5 +1,64 @@
-<div class="container">
-  <div>
-   add new client
-  </div>
-</div>  
+<fieldset>
+<legend>Add New Client</legend>
+    <form name='addClientForm' novalidate>
+      <div class="form-group">
+        <div class="error regmessage">{{addClientCtrl.error}}</div>
+        <label class="name"> Name of the client: </label>
+        <!-- Client Name -->
+        <input type="text" name="name"
+         pattern="[\w\s]+"
+         ng-model="addClientCtrl.client.name"/>
+         <span class="error"
+           ng-show="addClientForm.name.$error.required && addClientForm.name.$touched">
+           Name of the client is required
+         </span>
+         <span  class="error" ng-show="!addClientForm.name.$error.required &&
+                  addClientForm.name.$invalid && addClientForm.name.$touched">
+           Fullname must only contain words and spaces
+         </span>
+      </div>
+      <!-- Gender -->
+      <div class="form-group">
+        <label class="gender"> Gender: </label>
+        <select name="gender" ng-model="addClientForm.client.gender">
+          <option value ="">--Select--</option>
+          <option value ="F">Female</option>
+          <option value ="M">Male</option>
+          <option value ="O">Other</option>
+        </select>
+         <span class="error" ng-show="!addClientForm.gender.$error.required && addClientForm.gender.$touched">
+           Please select the gender
+         </span>
+      </div>
+      <!-- Age  -->
+      <div class="form-group">
+        <label class="age"> Age: </label>
+        <input type="text" name="age"
+        pattern="[\d]{1,3}"
+        ng-model="addClientCtrl.client.age" />
+        <span class="error" ng-show="addClientForm.age.$invalid && addClientForm.age.$touched">
+          Age is invalid. Should be number.
+        </span>
+      </div>
+      <!-- Marital Status -->
+      <div class="form-group">
+        <label class="marital"> Marital Status: </label>
+        <select name="maritalstat" ng-model="addClientForm.client.maritalstatus">
+          <option value ="">--Select--</option>
+          <option value ="S">Single</option>
+          <option value ="M">Married</option>
+          <option value ="D">Divorced</option>
+          <option value ="W">Widowed</option>
+          <option value ="P">Partner</option>
+        </select>
+      </div>
+      <div class="form-group">
+        <button class="btn btn-default btncolor" ng-disabled="addClientForm.$invalid"
+        ng-click="addClientCtrl.submit()">Register
+        </button>
+        <a ui-sref="home.login" class="url">Cancel</a>
+      </div>
+    </form>
+  </fieldset>
+</div>
+</div>

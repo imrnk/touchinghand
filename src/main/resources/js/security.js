@@ -29,7 +29,6 @@ angular.module('security.service', [])
         return $http.get(ApiBasePath + '/current-user').then(function(response) {
           console.log(response.data.authorities[0].authority === 'ROLE_ADMIN');
           service.currentUser = response.data;
-          console.log("Inside security service, current user: ",service.currentUser);
           return service.currentUser;
         });
       }

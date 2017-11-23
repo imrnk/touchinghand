@@ -7,10 +7,12 @@ import java.util.List;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 import org.touchinghand.client.dto.ClientDTO;
 import org.touchinghand.dao.ClientRepository;
 import org.touchinghand.exception.ClientCannotBeCreatedException;
 
+@Service
 public class ClientService implements IClientService {
 
 	public Logger logger = LoggerFactory.getLogger(this.getClass());

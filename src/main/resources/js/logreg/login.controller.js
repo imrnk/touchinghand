@@ -13,8 +13,7 @@ function LoginController(LoginRegistrationService, ApiBasePath, $location, $stat
       console.log("Inside LoginController submit", loginCtrl.user.userName);
         LoginRegistrationService.login(loginCtrl.user, function (data, status, headers, config) {
   			// Success handler
-  			console.info('The user has been successfully logged in! ', status);
-        security.requestCurrentUser();
+  			security.requestCurrentUser();
         $state.go('home.dashboard');
         //$state.go('');
   		}, function(data, status, headers, config) {

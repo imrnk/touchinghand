@@ -1,4 +1,5 @@
-angular.module('DashboardModule')
+angular.module('touchinghand')
 .component('addClient', {
-  templateUrl: '../../static/templates/dashboard.addclient.template.html'
+  templateUrl: '../../static/templates/dashboard.addclient.template.html'.
+  bindings: {}
 });

@@ -45,12 +45,13 @@ function RoutesConfig($stateProvider, $urlRouterProvider) {
   //   //controller: 'DashboardController as dashboardCtrl'
   // })
 
-  // //dashboard add client template
-  // .state('home.dashboard.main.addclient', {
-  //   url: '/dashboard/add-client',
-  //   templateUrl: '../static/templates/dashboard.addclient.template.html'
-  // })
-  //
+  //dashboard add client template
+  .state('home.dashboard.addclient', {
+    url: '/dashboard/add-client',
+    templateUrl: '../static/templates/dashboard.addclient.template.html',
+    controller: 'AddClientController as addClientCtrl'
+  })
+
   // //dashboard clients template
   // .state('home.dashboard.main.clients', {
   //   url: '/dashboard/clients',

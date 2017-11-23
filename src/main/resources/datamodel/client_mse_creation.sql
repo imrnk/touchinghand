@@ -1,0 +1,47 @@
+CREATE TABLE IF NOT EXISTS `ocsa`.`client_mse` (
+  `client_mse_id` INT NOT NULL AUTO_INCREMENT,
+  `client_id` INT NOT NULL,
+  `appearance` VARCHAR(45) NULL,
+  `other_appearance` VARCHAR(45) NULL,
+  `speech` VARCHAR(45) NULL,
+  `other_speech` VARCHAR(45) NULL,
+  `eye_contact` VARCHAR(45) NULL,
+  `other_eyecontact` VARCHAR(45) NULL,
+  `motor_activity` VARCHAR(45) NULL,
+  `other_motoractivity` VARCHAR(45) NULL,
+  `affect` VARCHAR(45) NULL,
+  `other_affect` VARCHAR(45) NULL,
+  `mood` VARCHAR(45) NULL,
+  `other_mood` VARCHAR(45) NULL,
+  `orientation_impairment` VARCHAR(45) NULL,
+  `memory_impairment` VARCHAR(45) NULL,
+  `other_memory_impairment` VARCHAR(45) NULL,
+  `attention` VARCHAR(45) NULL,
+  `cognition_comments` VARCHAR(45) NULL,
+  `hallucinations` VARCHAR(45) NULL,
+  `other_perceptions` VARCHAR(45) NULL,
+  `perceptions_comments` VARCHAR(45) NULL,
+  `suicidality` VARCHAR(45) NULL,
+  `homicidality` VARCHAR(45) NULL,
+  `delusions` VARCHAR(45) NULL,
+  `other_delusions` VARCHAR(45) NULL,
+  `thoughts_comments` VARCHAR(45) NULL,
+  `behavior` VARCHAR(45) NULL,
+  `other_behavior` VARCHAR(45) NULL,
+  `behavior_comments` VARCHAR(45) NULL,
+  `insight` VARCHAR(45) NULL,
+  `other_insight` VARCHAR(45) NULL,
+  `judgement` VARCHAR(45) NULL,
+  `judgement_other` VARCHAR(45) NULL,
+  `created_on` DATETIME NOT NULL,
+  `updated_on` DATETIME NULL,
+  PRIMARY KEY (`client_mse_id`, `client_id`),
+  UNIQUE INDEX `client_mse_id_UNIQUE` (`client_mse_id` ASC),
+  INDEX `fk_client_mse_1_idx` (`client_id` ASC),
+  CONSTRAINT `fk_client_mse_1`
+    FOREIGN KEY (`client_id`)
+    REFERENCES `ocsa`.`client` (`client_id`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION)
+ENGINE = InnoDB
+COMMENT = 'mse testing data for a client'
